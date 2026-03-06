@@ -1,18 +1,21 @@
-<h1 align="center">Hola 👋, soy Stalin Flores</h1>
+<h1 align="center">
+  Hola, soy Stalin Flores
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="mano saludando" />
+</h1>
 
-<h3 align="center">Desarrollador Fullstack de Perú 🇵🇪 apasionado por crear soluciones modernas, creativas e innovadoras</h3>
+<h3 align="center">Desarrollador Fullstack  apasionado por crear soluciones modernas, creativas e innovadoras</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Desarrollador+Fullstack;Frontend+%2B+Backend;Construyendo+soluciones+modernas;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=950&lines=Desarrollador+Fullstack;Frontend+%2B+Backend;Construyendo+soluciones+modernas;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stalinflores1823&label=Visitas&color=0A66C2&style=for-the-badge" alt="visitas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A5ACD&height=130&section=header&text=Stalin%20Flores&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="32"> Sobre mí
 
 <p align="left">
 Soy <b>Stalin Flores</b>, estudiante de <b>Computación e Informática</b> en <b>Cibertec</b> y desarrollador con enfoque <b>Fullstack</b>.  
@@ -20,7 +23,6 @@ Me apasiona crear productos digitales funcionales, modernos y con buenas experie
 </p>
 
 - 💻 Estudiante de **Computación e Informática** en **Cibertec**
-- 🇵🇪 De **Perú**
 - 🎯 Enfocado en construir soluciones **creativas, innovadoras y funcionales**
 - 📚 Aprendiendo constantemente nuevas tecnologías
 - ⚡ Me gusta trabajar tanto en **frontend** como en **backend**
@@ -29,7 +31,7 @@ Me apasiona crear productos digitales funcionales, modernos y con buenas experie
 
 ---
 
-## 🌐 Conecta conmigo
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"> Contacto
 
 <p align="center">
   <a href="mailto:stalinflores1823@gmail.com" target="_blank">
@@ -42,7 +44,7 @@ Me apasiona crear productos digitales funcionales, modernos y con buenas experie
 
 ---
 
-## 🛠️ Stack Tecnológico
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> Stack Tecnológico
 
 ### Lenguajes
 <p align="center">
@@ -56,30 +58,40 @@ Me apasiona crear productos digitales funcionales, modernos y con buenas experie
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,spring&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,java,spring,laravel&perline=6" />
 </p>
 
-### Bases de datos
+### Bases de datos SQL y NoSQL
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
+</p>
+
+### IDEs y entorno de desarrollo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio&perline=5" />
+</p>
+
 ### Herramientas y entorno
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma&perline=5" />
 </p>
 
----
-
-## ✨ Tecnologías en movimiento
-
+### Otras herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,php,java,python,spring,mysql,mongodb,postgres,git,docker,linux&perline=8" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white" alt="Laragon" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 ---
 
-## 📌 Actualmente
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Actualmente
 
 - 🌱 Aprendiendo y fortaleciendo mis habilidades en desarrollo web
 - 🔭 Trabajando en proyectos personales y académicos
@@ -88,31 +100,10 @@ Me apasiona crear productos digitales funcionales, modernos y con buenas experie
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stalinflores1823&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalinflores1823&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stalinflores1823&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Filosofía
+## <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="32"> Filosofía
 
 <p align="center">
   <i>"La tecnología es la herramienta con la que convierto ideas en soluciones reales."</i>
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stalinflores1823/stalinflores1823/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
